@@ -1,2 +1,4 @@
 # Power-Supply
-All Power supply schematics and battery chargers 
+This repository contains all type of power supply and battery chargers.
+# Contribution
+We'll be happy to push your board into this repository and share your knowledge with us.
